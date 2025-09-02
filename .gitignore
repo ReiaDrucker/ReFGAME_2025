@@ -1,0 +1,7 @@
+# Default ignored files
+*.json
+*.png
+/awpy examples/*.gif
+/awpy examples/*.dem
+/Experiments/output_results/
+/.idea/

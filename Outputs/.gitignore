@@ -1,0 +1,4 @@
+# Default ignored files
+*.csv
+*.parquet
+!cleaned*.parquet
