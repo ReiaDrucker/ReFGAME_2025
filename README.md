@@ -20,6 +20,6 @@ Then run the following files in order (you can use pipeline.sh to make this easi
     "Compute_Features/Collate_Features.py"
 
 This will take a LONG TIME and is not recommended for anyone who wants to just explore the data. 
-If you are interested in our implementation for feature computation see the Compute_Features folder and the files Refgem_Compute.py and Collate_Features.py in particular.
+If you are interested in our implementation for feature computation see the /Compute_Features folder and the files Refgem_Compute.py and Collate_Features.py in particular.
 
 
